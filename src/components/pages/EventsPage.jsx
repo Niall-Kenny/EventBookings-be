@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Auth extends Component {
+class EventsPage extends Component {
     render() {
         return (
             <div>
-                the Auth page
+                
             </div>
         );
     }
 }
 
-export default Auth;
+export default EventsPage;
