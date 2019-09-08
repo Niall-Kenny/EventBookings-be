@@ -4,7 +4,7 @@ class AuthPage extends Component {
     render() {
         return (
             <div>
-                the Auth page
+                <h1>yo motherfucker</h1>
             </div>
         );
     }
