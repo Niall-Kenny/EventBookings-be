@@ -4,7 +4,9 @@ body {
   font-family: sans-serif;
 }
 
-.form-control label, .form-control input {
+.form-control label,
+.form-control input,
+.form-control textarea {
   width: 100%;
   display: block;
 }
@@ -17,7 +19,8 @@ body {
   margin-bottom: 1rem;
 }
 
-.form-actions button, .btn {
+.form-actions button,
+.btn {
   font: inherit;
   background: #5101d1;
   border: 1px solid #5101d1;
@@ -29,7 +32,10 @@ body {
   cursor: pointer;
 }
 
-.form-actions button:hover, .form-actions button:active, .btn:hover, .btn:active {
+.form-actions button:hover,
+.form-actions button:active,
+.btn:hover,
+.btn:active {
   background: #5101d1;
   border-color: #5101d1;
 }
